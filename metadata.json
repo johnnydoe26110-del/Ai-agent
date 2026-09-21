@@ -1,0 +1,6 @@
+{
+  "name": "Simultaneous Social Video Uploader",
+  "description": "Upload and broadcast the same video to YouTube Shorts, TikTok, Instagram Reels, X, Facebook Reels, and LinkedIn simultaneously with one click. Features an AI agent mode to scout viral web gaming clips, auto-clip 9:16 vertical shorts, and schedule for peak USA algorithmic timings.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
